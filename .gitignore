@@ -1,4 +1,6 @@
 /*
+!/.gitignore
+!/README.md
 !/cue_flac/.download_cover_img.sh
 !/cue_flac/.find_no_cover_img_dir.sh
 !/cue_flac/.split.sh
