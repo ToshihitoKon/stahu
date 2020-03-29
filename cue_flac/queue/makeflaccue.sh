@@ -1,4 +1,10 @@
 #!/bin/bash
+cd `dirname $0`
+
+if [ "${1}" = "" ];then
+    echo must dirname
+    exit
+fi
 
 mkdir ${1}
 cd ${1}
